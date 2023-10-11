@@ -48,7 +48,7 @@ const general = {
 
     preview: {
       user: {
-        github: 'maurodesouza',
+        github: 'mrjuice01',
       },
     },
   },
