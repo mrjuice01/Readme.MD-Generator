@@ -16,7 +16,7 @@ const Footer = () => {
         <S.Mention>
           Developed and maintained by{' '}
           <a
-            href="https://github.com/maurodesouza"
+            href="https://github.com/mrjuice01"
             target="_blank"
             rel="noreferrer"
           >
