@@ -20,7 +20,7 @@ const Footer = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Mauro de Souza
+            Mr Juice
           </a>
         </S.Mention>
       </S.Wrapper>
