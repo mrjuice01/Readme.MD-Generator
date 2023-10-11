@@ -12,7 +12,7 @@ const Welcome = () => {
       <S.Header>
         <h1>Welcome To Profile Readme Generator</h1>
         <h2>
-          <span>🚀</span> The best profile readme generator you will find
+          <span>🚀</span> The best profile readme generator by Mr Juice
           <span>⚡</span>
         </h2>
       </S.Header>
@@ -47,7 +47,7 @@ const Welcome = () => {
         <p>
           If you like it, give the{' '}
           <a
-            href="https://github.com/maurodesouza/profile-readme-generator"
+            href="https://github.com/mrjuice01/Readme.MD-Generato"
             target="_blank"
             rel="noreferrer"
           >
