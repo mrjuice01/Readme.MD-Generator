@@ -19,11 +19,11 @@
   </a>
 
   <a href="https://github.com/mrjuice01/Readme.MD-Generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity//mrjuice01/Readme.MD-Generator?" alt="Badge showing average commit frequency per month"/>
+    <img src="https://img.shields.io/github/commit-activity/mrjuice01/Readme.MD-Generator?" alt="Badge showing average commit frequency per month"/>
   </a>
 
   <a href="https://github.com/mrjuice01/Readme.MD-Generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commitmrjuice01/Readme.MD-Generator?" alt="Badge showing when the last commit was made"/>
+    <img src="https://img.shields.io/last-commit/mrjuice01/Readme.MD-Generator?" alt="Badge showing when the last commit was made"/>
   </a>
 
   <a href="https://github.com/mrjuice01/Readme.MD-Generator/issues" target="_blank">
