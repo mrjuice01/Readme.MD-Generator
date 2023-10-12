@@ -118,7 +118,7 @@ Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) 
 # Clone this project
 $ git clone https://github.com/mrjuice01/mrjuice01/Readme.MD-Generator
 # Access
-$ cd mrjuice01/Readme.MD-Generator
+$ cd Readme.MD-Generator
 # Install dependencies
 $ yarn
 
