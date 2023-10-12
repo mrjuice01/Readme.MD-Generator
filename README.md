@@ -116,11 +116,9 @@ Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) 
 
 ```bash
 # Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
+$ git clone https://github.com/mrjuice01/mrjuice01/Readme.MD-Generator
 # Access
-$ cd profile-readme-generator
-
+$ cd mrjuice01/Readme.MD-Generator
 # Install dependencies
 $ yarn
 
