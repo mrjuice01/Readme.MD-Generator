@@ -18,13 +18,14 @@
     <img src="https://img.shields.io/github/stars/mrjuice01/Readme.MD-Generator?" alt="Badge showing the total of project stars"/>
   </a>
 
-  <a href="https://github.com/mrjuice01/Readme.MD-Generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/mrjuice01/Readme.MD-Generator?" alt="Badge showing average commit frequency per month"/>
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/mrjuice01/Readme.MD-Generator?" alt="Badge showing average commit frequency per month"/>
   </a>
 
-  <a href="https://github.com/mrjuice01/Readme.MD-Generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/last-commit/mrjuice01/Readme.MD-Generator?" alt="Badge showing when the last commit was made"/>
+   <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/mrjuice01/Readme.MD-Generator?" alt="Badge showing when the last commit was made"/>
   </a>
+
 
   <a href="https://github.com/mrjuice01/Readme.MD-Generator/issues" target="_blank">
     <img src="https://img.shields.io/github/issues/mrjuice01/Readme.MD-Generator?" alt="Badge showing the total of project issues"/>
